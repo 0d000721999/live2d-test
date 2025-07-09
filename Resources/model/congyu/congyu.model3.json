@@ -1,13 +1,13 @@
 {
   "Version": 3,
   "FileReferences": {
-    "Moc": "Murasame.moc3",
+    "Moc": "congyu.moc3",
     "Textures": [
-      "Murasame.4096/texture_00.webp"
+      "congyu.4096/texture_00.webp"
     ],
-    "Physics": "Murasame.physics3.json",
+    "Physics": "congyu.physics3.json",
     "PhysicsV2": {
-      "File": "Murasame.physics3.json"
+      "File": "congyu.physics3.json"
     },
     "Motions": {
       "Idle": [
